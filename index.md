@@ -1,7 +1,4 @@
 
-    h1 {
-      color: #0077cc;
-    }
   </style>
 </head>
 <body>
