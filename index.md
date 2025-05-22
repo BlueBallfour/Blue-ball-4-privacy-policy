@@ -1,9 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Privacy Policy - Blue Ball 4</title>
-  <style>
+
     body {
       font-family: Arial, sans-serif;
       max-width: 800px;
