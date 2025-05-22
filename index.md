@@ -1,5 +1,4 @@
 
-  </style>
 </head>
 <body>
   <h1>Privacy Policy for Blue Ball 4</h1>
